@@ -1,34 +1,32 @@
 <h1>Cybersecurity Password Safety Infographics</h1>
 
-<h2>Scenario</h2>
+<h2>Description</h2>
 
-- <b>Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage</b>
-  - Completed a job simulation involving the role of a cybersecurity generalist, specializing in fraud detection and prevention for Commonwealth Bank's Cybersecurity team.
-  - Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
-
-- <b>Your Role</b>
-  - You are an analyst in our Security Awareness Team.
-  - Our Chief Security Officer (CSO) relies on our team to help our staff learn how to identify and report security threats to Mastercard.
-
-- <b>Tasks</b>
-  - Research ACSC's best practices for secure passwords.
-  - Design a visually clear and appealing infographic using suitable software (e.g., Canva).
-  - Create an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
-
-          
-<br />
+As part of this Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage, I was asked to create an infographic to raise security awareness on password security among "my" peers based on Australian Cyber Security Centre (ACSC) advice.
 
 <h2>Tools Used</h2>
 
   - <b>Canva</b>
   - <b>PowerPoint</b> 
 
-<h3><a href="https://github.com/arielbethea/CybersecurityAwarenessTraining/blob/main/Ariel%20Bethea%20-%20Mastercard%20Phishing%20Awareness%20Presentation.pdf" align="left">Cybesecurity Awareness Training Simulation for Mastercard</a></h3>
+
+<h2>Task</h2>
+
+To design an effective infographic to raise security awareness on password security among fellow employees by:
+  - Researching ACSC's best practices for secure passwords.
+  - Designing a visually clear and appealing infographic using suitable software (e.g., Canva).
+  - Creating an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
+            
+<h2>Results</h2>
+
+<h3><a href="https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="left">Cybesecurity Awareness Infographic for Commonwealth Bank Cybersecurity Job Simulation</a></h3>
 </p>
 
 
+<h2>Summary</h2>
 
-
+ - Completed a job simulation involving the role of a cybersecurity generalist, specializing in fraud detection and prevention for Commonwealth Bank's Cybersecurity team.
+ - Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
 
 
 
