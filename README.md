@@ -7,8 +7,6 @@ As part of this Commonwealth Bank Introduction to Cybersecurity Job Simulation o
 <h2>Tools Used</h2>
 
   - <b>Canva</b>
-  - <b>PowerPoint</b> 
-
 
 <h2>Task</h2>
 
@@ -16,11 +14,13 @@ To design an effective infographic to raise security awareness on password secur
   - Researching ACSC's best practices for secure passwords.
   - Designing a visually clear and appealing infographic using suitable software (e.g., Canva).
   - Creating an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
-            
+         [Are Your Devices Secure - Password Security Infographics.pdf](https://github.com/user-attachments/files/16568252/Are.Your.Devices.Secure.-.Password.Security.Infographics.pdf)
+   
 <h2>Results</h2>
 
 <h3><a href="https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="left">Cybesecurity Awareness Infographic for Commonwealth Bank Cybersecurity Job Simulation</a></h3>
 </p>
+
 
 
 <h2>Summary</h2>
