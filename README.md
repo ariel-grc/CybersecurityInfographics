@@ -14,7 +14,6 @@ To design an effective infographic to raise security awareness on password secur
   - Researching ACSC's best practices for secure passwords.
   - Designing a visually clear and appealing infographic using suitable software (e.g., Canva).
   - Creating an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
-         [Are Your Devices Secure - Password Security Infographics.pdf](https://github.com/user-attachments/files/16568252/Are.Your.Devices.Secure.-.Password.Security.Infographics.pdf)
    
 <h2>Results</h2>
 
