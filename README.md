@@ -17,7 +17,7 @@ To design an effective infographic to raise security awareness on password secur
    
 <h2>Results</h2>
 
-<h3><a href="https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="left">Cybesecurity Awareness Infographic for Commonwealth Bank Cybersecurity Job Simulation</a></h3>
+<h3><a href="https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="left">Cybersecurity Awareness Infographic for Commonwealth Bank Cybersecurity Job Simulation</a></h3>
 </p>
 
 
