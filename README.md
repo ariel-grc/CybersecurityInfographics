@@ -1,42 +1,59 @@
-<h1>Cybersecurity Password Safety Infographics</h1>
+# 🔐 Cybersecurity Password Safety Infographics  
+**Commonwealth Bank Cybersecurity Job Simulation – Forage | April 2024**
 
-<h2>Description</h2>
+## 📌 Overview  
+As part of the Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage, I developed a **cybersecurity awareness infographic** to educate employees on best practices for password safety. This initiative supports broader organizational goals related to **fraud prevention, user behavior risk reduction, and compliance with national security standards**.
 
-As part of this Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage, I was asked to create an infographic to raise security awareness on password security among "my" peers based on Australian Cyber Security Centre (ACSC) advice.
+The infographic is grounded in guidance from the **Australian Cyber Security Centre (ACSC)** and was designed for non-technical audiences to easily understand and apply strong password hygiene principles.
 
-<h2>Tools Used</h2>
+---
 
-  - <b>Canva</b>
+## 🧠 Objectives  
+- Raise employee awareness of password-related risks such as **credential theft**, **phishing**, and **brute-force attacks**  
+- Translate ACSC security recommendations into an **easy-to-digest, visual format**  
+- Support a **security-first culture** through accessible internal training resources
 
-<h2>Task</h2>
+---
 
-To design an effective infographic to raise security awareness on password security among fellow employees by:
-  - Researching ACSC's best practices for secure passwords.
-  - Designing a visually clear and appealing infographic using suitable software (e.g., Canva).
-  - Creating an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
-   
-<h2>Results</h2>
+## 🛠 Tools & Resources  
+- 🎨 **Canva** – Used to create the infographic with a focus on accessibility and clarity  
+- 📚 **ACSC Best Practices** – Research source for secure password creation and management  
+- 🧾 **PDF Format** – Final deliverable designed for easy internal distribution  
 
-<h3><a href="https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor" align="left">Cybersecurity Awareness Infographic for Commonwealth Bank Cybersecurity Job Simulation</a></h3>
-</p>
+---
 
+## ✅ Key Deliverables  
+- 📎 [View the Infographic (PDF)](https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)  
+- 🧩 Security awareness asset covering:
+  - Passphrases vs. passwords  
+  - Multi-factor authentication (MFA)  
+  - Password manager use  
+  - Avoiding password reuse  
+  - Social engineering red flags
 
+---
 
-<h2>Summary</h2>
+## 💡 Skills Demonstrated  
+- Cybersecurity Awareness Training  
+- GRC Communication & Documentation  
+- Secure User Behavior Advocacy  
+- Visual Design for Security Enablement  
+- National Cybersecurity Standards Application (ACSC)  
 
- - Completed a job simulation involving the role of a cybersecurity generalist, specializing in fraud detection and prevention for Commonwealth Bank's Cybersecurity team.
- - Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
+---
 
+## 🛡️ Why It Matters  
+This project demonstrates the ability to **bridge the gap between technical standards and user behavior**, a key competency in **GRC, InfoSec training**, and **security culture development** roles. It reflects practical experience with **educating employees**, developing **policy-aligned assets**, and reinforcing the **“human layer”** of cybersecurity.
 
+---
 
+## 🏷️ Tags  
+`#CybersecurityAwareness` `#InformationSecurity` `#GRC` `#PasswordSecurity`  
+`#SecurityTraining` `#ACSC` `#InfosecComms` `#CanvaDesign` `#ForageSimulation`  
+`#HumanRiskManagement` `#CyberHygiene` `#SecurityCulture`
 
+---
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+## 📫 Contact  
+Have questions or feedback? Feel free to connect with me on [LinkedIn](www.linkedin.com/in/)
+
