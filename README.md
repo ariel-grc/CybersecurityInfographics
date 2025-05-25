@@ -23,7 +23,7 @@ The infographic is grounded in guidance from the **Australian Cyber Security Cen
 ---
 
 ## ✅ Key Deliverables  
-- 📎 [View the Infographic (PDF)](https://www.canva.com/design/DAGBkjZgR1g/nnGDbiT3UVailOWAUBNMiQ/view?utm_content=DAGBkjZgR1g&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)  
+- 📎 [View the Infographic (PDF)](https://github.com/ariel-grc/Password-Security-Awareness-Infographic/blob/main/Are%20Your%20Devices%20Secure%20-%20Password%20Security%20Infographics.pdf)  
 - 🧩 Security awareness asset covering:
   - Passphrases vs. passwords  
   - Multi-factor authentication (MFA)  
