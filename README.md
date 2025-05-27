@@ -2,9 +2,9 @@
 **Commonwealth Bank Cybersecurity Job Simulation – Forage | April 2024**
 
 ## 📌 Overview  
-As part of the Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage, I developed a **cybersecurity awareness infographic** to educate employees on best practices for password safety. This initiative supports broader organizational goals related to **fraud prevention, user behavior risk reduction, and compliance with national security standards**.
+As part of the Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage, I developed **cybersecurity awareness infographics** to educate employees on best practices for password safety. This initiative supports broader organizational goals related to **fraud prevention, user behavior risk reduction, and compliance with national security standards**.
 
-The infographic is grounded in guidance from the **Australian Cyber Security Centre (ACSC)** and was designed for non-technical audiences to easily understand and apply strong password hygiene principles.
+The infographics are grounded in guidance from the **Australian Cyber Security Centre (ACSC)** and were designed for non-technical audiences to easily understand and apply strong password hygiene principles.
 
 ---
 
@@ -16,7 +16,7 @@ The infographic is grounded in guidance from the **Australian Cyber Security Cen
 ---
 
 ## 🛠 Tools & Resources  
-- 🎨 **Canva** – Used to create the infographic with a focus on accessibility and clarity  
+- 🎨 **Canva** – Used to create the infographics with a focus on accessibility and clarity  
 - 📚 **ACSC Best Practices** – Research source for secure password creation and management  
 - 🧾 **PDF Format** – Final deliverable designed for easy internal distribution  
 
